@@ -1,0 +1,15 @@
+.alpaca {
+    margin: 25px;
+    padding: 25px;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+.alpaca img {
+    align: center;
+}
+
+.summary p {
+    text-align: center;
+}
